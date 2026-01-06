@@ -1,0 +1,9 @@
+opencv-python
+numpy
+ultralytics
+facenet-pytorch
+torch
+torchvision
+mysql-connector-python
+pycryptodome
+openpyxl

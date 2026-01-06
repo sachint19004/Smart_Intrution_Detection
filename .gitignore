@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Security - NEVER upload these
+*.key
+aes_secret.key
+#config.py  # Optional: If you want to force users to make their own config
+# If you keep config.py, ensure the PASSWORD is a placeholder before committing!
+
+# Logs and Data
+Intruder_Log/
+*.xlsx
+*.log
+
+# Large Models (Best practice: don't upload large .pt files, link to them in README)
+*.pt
